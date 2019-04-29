@@ -38,11 +38,6 @@
             <artifactId>ant</artifactId>
             <version>1.9.0</version>
         </dependency>
-        <!--		<dependency>
-                    <groupId>com.zhongan.scf</groupId>
-                    <artifactId>zt-scf-common</artifactId>
-                    <version>0.0.1-SNAPSHOT</version>
-                </dependency>-->
     </dependencies>
 
 
